@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "<h3>Arquitectura Web</h3>"
+            echo "<h3>Arquitectura Web</h3>";
         ?>
     </body>
 </html>
